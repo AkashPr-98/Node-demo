@@ -20,6 +20,8 @@ const divide = (a, b) => {
 
 const name = "Akash";
 
+const lname = "Rajput"
+
 const car = {
     brand: "Tata",
     model: "Altroz",
